@@ -21,7 +21,7 @@ import {
   Zap,
 } from "lucide-react";
 
-const storageImage = "/hero-product.png";
+const storageImage = "/hero-product.webp";
 
 const featureCards = [
   {
