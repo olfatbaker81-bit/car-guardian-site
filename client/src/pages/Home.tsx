@@ -21,7 +21,7 @@ import {
   Zap,
 } from "lucide-react";
 
-const storageImage = "/hero-product.webp";
+const storageImage = `${import.meta.env.BASE_URL}hero-product.webp`;
 
 const featureCards = [
   {
